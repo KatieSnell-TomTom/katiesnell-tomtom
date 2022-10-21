@@ -3,7 +3,7 @@ katiesnell-tomtom/katiesnell-tomtom is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-My name is Katie, and I am a Software Engineer at TomTom. I write code for [TomTom AmiGO](https://github.com/tomtom-internal/amigo-mobile).
+My name is Katie, and I was a Software Engineer at TomTom. I wrote code for [TomTom AmiGO](https://github.com/tomtom-internal/amigo-mobile). Since 21st October 2022, I have left the company.
 ---
 📝 See my tech ramblings at [https://katieisnell.medium.com/](https://katieisnell.medium.com/)
 
